@@ -7,6 +7,7 @@
     }
     header{
         display: none;
+        border-bottom: 1px solid white;
     }
     .phoneHeader{
         display: block;
@@ -31,5 +32,66 @@
         display: flex;
         align-items: center;
         gap: 3px;
+    }
+    .hero-section {
+        height: auto;
+        padding-bottom: 40px;
+    }
+    .insection1 {
+        width: 90%;
+    }
+    .part1inHeroSection {
+        height: auto;
+        padding-bottom: 25px;
+        margin-top: 20px;
+    }
+    .BoxAkcii {
+        flex-direction: column;
+        align-items: flex-start;
+        gap: 10px;
+        padding-top: 20px;
+    }
+    .DivAkciya, .DivOkt {
+        font-size: 14px;
+        width: auto;
+    }
+    .forflex {
+        flex-direction: column;
+        align-items: flex-start;
+        gap: 15px;
+    }
+    .pUteplenie {
+        font-size: 30px;
+    }
+    .btn1 {
+        width: 100%;
+        font-size: 20px;
+        padding: 15px;
+    }
+    .pSkidka {
+        font-size: 18px;
+        width: 100%;
+    }
+    .inpart2inHeroSection {
+        margin-top: 50px;
+    }
+    .pUslugiTovar {
+        font-size: 36px;
+        width: 100%;
+        text-align: left;
+    }
+    .inpart3inHeroSection {
+        flex-direction: column;
+        gap: 25px;
+    }
+    .firstCateg {
+        width: 100%;
+    }
+    .pRemont {
+        font-size: 28px;
+    }
+    .pKomplex {
+        font-size: 16px;
+        margin-top: 10px;
     }
 }
