@@ -368,3 +368,52 @@ header{
 .ddd{
     width: 250px;
 }
+.section4{
+    width: 100%;
+    height: 670px;
+    margin-top: 100px;
+}
+.insection4{
+    width:80%;
+    height: 100%;
+    margin: auto;
+}
+.pNews{
+    font-size: 50px;
+    font-weight: 700;
+}
+.boxGG{
+    width: 95%;
+    height: 180px;
+    background-image: url(./images/3acb860ebfdf0396c24a38dc8a4ca2f41e2b08f5.png) ;
+    margin-top: 30px;
+}
+.pVis{
+    font-size: 30px;
+    width: 70%;
+    font-weight: 700;
+    margin-top: 20px;
+    /* background-color: #E53624; */
+}
+.threeImage{
+    display: flex;
+    /* background-color: aqua; */
+    align-items: center;
+    justify-content: center;
+}
+.btnWatch{
+    padding: 15px;
+    font-size: 20px;
+    background-color: #E53624;
+    border: none;
+    width: 350px;
+    color: white;
+    font-weight: 700;
+    border-radius: 30px;
+}
+.DivWatch{
+    display:flex ;
+    align-items: center;
+    justify-content: end;
+    margin-top: 50px ;
+}
