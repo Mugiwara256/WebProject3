@@ -231,6 +231,7 @@
     }
     footer {
         padding-top: 30px;
+        margin-top: 50px;
     }
     .infooter {
         flex-direction: column;
