@@ -287,3 +287,84 @@ header{
     border: 2px solid white;
     border-radius: 30px;
 }
+.section3{
+    width: 100%;
+    height: 485px;
+    margin-top: 200px;
+    display: flex;
+    align-items: center;
+}
+.part1Sec3{
+    width: 65%;
+    height: 100%;
+    background-color: #476178;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.part2Sec3{
+    width: 35%;
+    height: 100%;
+    background-image: url(./images/3acb860ebfdf0396c24a38dc8a4ca2f41e2b08f5.png) ;
+    background-position: center;
+    background-size: cover;
+    color: white;
+}
+.pkatTov{
+    font-size: 65px;
+    font-weight: 700;
+    color: white;
+}
+.pOdno{
+    font-size: 20px;
+    color: white;
+    width: 33%;
+    text-align: center;
+    line-height: 30px;
+}
+.pKlin{
+    font-size: 45px;
+    font-weight: 700;
+    margin-top: 80px;
+}
+.inpart2Sec3{
+    width: 60%;
+    margin: auto;
+}
+.DivSredstba{
+    border: 2px solid white;
+    width: 250px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 10px;
+    border-radius: 30px;
+}
+.mmm{
+    font-size: 20px;
+}
+.iii{
+    width: 150px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.buttonsss{
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    margin-top: 20px;
+}
+.another3{
+    margin: 0;
+}
+.anotherBack{
+    background-image: url(./images/cd255acdc062e5e489d2ae8b1559821b800ed192.png);
+    color: white;
+    background-repeat: no-repeat ;
+    background-size: cover;
+}
+.ddd{
+    width: 250px;
+}
